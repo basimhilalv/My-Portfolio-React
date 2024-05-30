@@ -9,8 +9,8 @@ export default function About(){
             <br className="hidden lg:inline-block" />I love to build amazing
             web apps.
           </h1>
-          <p className="mb-8 leading-relaxed">
-            Web techs are my friends, and I just love to play with them !!. I am a Btech graduate from Kerala, India a passionate learner and tech enthusiast.
+          <p className="mb-8 leading-relaxed ">
+            Web techs are my friends, and I just love to play with them !!. I am a Btech graduate from Kerala, India, a passionate learner and tech enthusiast.
           </p>
           <div className="flex justify-center">
             <a
